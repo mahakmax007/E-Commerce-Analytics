@@ -242,3 +242,19 @@ B.Tech — Computer Science & Engineering
 * GitHub: https://github.com/mahakmax007
 * Tableau Public: https://public.tableau.com/app/profile/mahak.singh3489
 
+* ---
+
+## 📸 Dashboard Preview
+
+### E-Commerce Customer Overview
+
+![Customer Overview](image/customer-overview.png)
+
+### E-Commerce Customer Segmentation
+
+![Customer Segmentation](image/customer-segmentation.png)
+
+### E-Commerce RFM Analysis
+
+![RFM Analysis](image/rfm-analysis.png)
+
